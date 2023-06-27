@@ -1,0 +1,14 @@
+.user-card {
+  padding: 100px;
+  display: flex;
+  gap: 12px;
+}
+.user-card {
+  width: 10px;
+  height: 10px;
+  border: 1px solid green;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
